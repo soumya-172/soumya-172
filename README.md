@@ -1,4 +1,4 @@
-### Hi Soumyajyoti Here👋
+### 👋, Hi Soumyajyoti Here
 
 <!--
 **soumya-172/soumya-172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
